@@ -1,6 +1,6 @@
-# CapSense AI – Sentiment Analysis and Response Generation
+# CapSense AI – Sentiment Analysis and Response Generation Application
 
-**Developed for Capgemini** – Final Capstone Project by Kennesaw State University Students
+**Developed for Capgemini** – The sponsor of our technical work as a team of developers, testers, and technical writers using modern technologies.
 
 ---
 
@@ -13,6 +13,9 @@ The system leverages machine learning for sentiment and emotion detection, sarca
 This project showcases full-stack development capabilities, AI model integration, and practical experience in deploying enterprise-grade applications on Microsoft Azure.
 
 ---
+
+[![Watch the demo of the sentiment analysis and response generation features](thumbnail.png)](https://drive.google.com/file/d/1hLhfb_w8bMp3_GzqWgtKudcqmytcW8Lk/view?usp=sharing)
+
 
 ## My Contributions
 
@@ -121,4 +124,5 @@ npm run dev
 ---
 
 **CapSense AI** reflects hands-on experience in **full-stack development, machine learning, NLP, AI model integration, and cloud deployment**, making it a strong portfolio project for professional experience, including technical experience at **Capgemini**.
+
 
