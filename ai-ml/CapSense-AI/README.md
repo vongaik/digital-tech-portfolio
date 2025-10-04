@@ -14,7 +14,7 @@ This project showcases full-stack development capabilities, AI model integration
 
 ---
 
-[![Watch the demo of the sentiment analysis and response generation features](thumbnail.png)](https://drive.google.com/file/d/1hLhfb_w8bMp3_GzqWgtKudcqmytcW8Lk/view?usp=sharing)
+[![Watch the demo of the sentiment analysis and response generation features](thumbnail.PNG)](https://drive.google.com/file/d/1hLhfb_w8bMp3_GzqWgtKudcqmytcW8Lk/view?usp=sharing)
 
 
 ## My Contributions
@@ -124,5 +124,6 @@ npm run dev
 ---
 
 **CapSense AI** reflects hands-on experience in **full-stack development, machine learning, NLP, AI model integration, and cloud deployment**, making it a strong portfolio project for professional experience, including technical experience at **Capgemini**.
+
 
 
