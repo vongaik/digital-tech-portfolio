@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vongai Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://cdn.boxicons.com/fonts/basic/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.boxicons.com/fonts/brands/boxicons-brands.min.css"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/svg+xml" href="logo-imgs/VK.svg" />
+  </head>
+  <body>
+    <header class="header">
+      <a href="#home" class="logo">V<em>K</em>.</a>
+      <a
+        href="assets/Vongai-Ishe Kwenda Resume3.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        See Resume</a
+      >
+    </header>
+
+    <main class="main-page" id="home">
+      <div class="home">
+        <div class="banner">
+          <div class="home-text">
+            <h1 class="heading">Hi, I'm Vongai.</h1>
+            <h3>Frontend ML Engineer</h3>
+            <div class="location">
+              <i
+                class="bx bx-location"
+                alt="location-pin"
+                style="color: #c94057; font-size: 30px"
+              ></i>
+              <p>Zimbabwe</p>
+            </div>
+            <div class="btn-box">
+              <a
+                href="https://github.com/vongaik"
+                target="_blank"
+                class="github"
+                ><i class="bxl bx-github"></i
+              ></a>
+              <a
+                href="https://www.linkedin.com/in/vkwenda/"
+                target="_blank"
+                class="linkedin"
+                ><i class="bxl bx-linkedin"></i
+              ></a>
+              <a href="mailto:vkwenda@students.kennesaw.edu" class="contact"
+                >contact</a
+              >
+            </div>
+          </div>
+          <div class="my-pic">
+            <img
+              src="pics/20250422_150523.jpg"
+              alt="Vongai Kwenda"
+              class="image"
+              style="width: 100%"
+            />
+            <div class="middle">
+              <div class="KSU">
+                <img
+                  src="logo-imgs/Kennesaw State University-04.svg"
+                  alt="KSU logo"
+                />
+                <div class="text">
+                  KSU Graduate: <em>Summa Cum Laude</em> (Highest Honors)
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- use a margin style or bottom to bring these down the page a bit -->
+        <div class="tech-stack">
+          <p>Tech Stack:</p>
+          <div class="technologies">
+            <img src="logo-imgs/HTML5_Badge.svg" alt="html" class="html" />
+            <img src="logo-imgs/CSS3.svg" alt="css" />
+            <img src="logo-imgs/Python.svg" alt="python" />
+            <img src="logo-imgs/JavaScript.svg" alt="JavaScript" />
+            <img src="logo-imgs/Azure.svg" alt="azure" />
+            <img src="logo-imgs/scikit-learn.svg" alt="scikit learn" />
+            <img src="logo-imgs/React.svg" alt="React" />
+          </div>
+        </div>
+      </div>
+
+      <section class="project">
+        <h3>Projects</h3>
+        <div class="project-info">
+          <h4 class="project-title">
+            CapSense AI: AI-Powered Sentiment Analysis App
+          </h4>
+          <div class="app-buttons">
+            <a
+              href="https://github.com/vongaik/digital-tech-portfolio/blob/main/ai-ml/CapSense-AI/README.md"
+              target="_blank"
+              class="git-repo"
+              >Github Repo</a
+            >
+            <button id="openDemo">Video Demo</button>
+          </div>
+          <!-- Overlay Modal -->
+          <div id="demoModal" class="modal">
+            <div class="modal-content">
+              <span class="close">&times;</span>
+              <iframe
+                width="718"
+                height="404"
+                src="https://www.youtube.com/embed/D_WGV0uoF_w"
+                title="CapSense AI Demo Video"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
+              ></iframe>
+            </div>
+          </div>
+          <div class="proj-content">
+            <div class="text-wrapper">
+              <p class="proj-text">
+                Built an AI-powered sentiment analysis app for
+                <a
+                  href="https://www.capgemini.com"
+                  target="_blank"
+                  style="color: #c94057"
+                  ><b>Capgemini</b></a
+                >
+                that reduced manual customer service work. Trained a Naive Bayes
+                classifier, integrated Phi-4 LLM for responses, and deployed a
+                fullstack React + Flask solution with persistent data storage.
+              </p>
+              <br />
+              <hr />
+            </div>
+            <img
+              src="project-imgs/UI with phi 3 real response.PNG"
+              alt="CapSense AI Screenshot"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section class="project">
+        <div class="project-info">
+          <h4 class="project-title">Movie Finder</h4>
+          <div class="app-buttons">
+            <a
+              href="https://github.com/vongaik/my_adv_web_term_proj/blob/main/README.md"
+              target="_blank"
+              class="git-repo"
+              >Github Repo</a
+            >
+            <a
+              href="https://vongaik.github.io/my_adv_web_term_proj/"
+              target="_blank"
+              class="live-site"
+              >Live Site</a
+            >
+          </div>
+          <div class="proj-content">
+            <div class="text-wrapper">
+              <p class="proj-text">
+                A responsive single-page web application that lets users search,
+                browse, and explore movies and actors using live data from The
+                Movie Database (TMDb) API. Technologies I used incldue
+                JavaScript, jQuery, JSON, AJAX, Mustache.js and APIs. Try it!
+              </p>
+              <br />
+              <hr />
+            </div>
+            <img
+              src="project-imgs/movie-finder.PNG"
+              alt="Movie Finder Screenshot"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section class="project">
+        <div class="project-info">
+          <h4 class="project-title">Bookshelf and Book Search Website</h4>
+          <div class="app-buttons">
+            <a
+              href="https://github.com/vongaik/my-adv-web-mobile-space"
+              target="_blank"
+              class="git-repo"
+              >Github Repo</a
+            >
+            <a
+              href="https://vongaik.github.io/my-adv-web-mobile-space/milestone4.html"
+              target="_blank"
+              class="live-site"
+              >Live Site</a
+            >
+          </div>
+          <div class="proj-content">
+            <div class="text-wrapper">
+              <p class="proj-text">
+                Created a single-page bookshelf app using Mustache to render
+                book items and search results dynamically from the Google Books
+                API. Implemented grid and list views, click-to-expand book
+                details with smooth slide animations, and paginated search
+                results. You may search for a book at the site.
+              </p>
+              <br />
+              <hr />
+            </div>
+            <img
+              src="project-imgs/book-search2.png"
+              alt="Book Search Screenshot"
+            />
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <section class="honor-soc">
+      <h3>Honor Societies</h3>
+      <div class="society-wrapper">
+        <div class="society1">
+          <img
+            src="logo-imgs/pkp_circle_4c.png"
+            alt="Phi Kappa Phi"
+            class="society-badge"
+          />
+          <div class="line"></div>
+          <p class="soc-desc">
+            Recognized for academic excellence as part of America's oldest and
+            most selective multidisciplinary honor society. Inducted: Jun 2024
+          </p>
+        </div>
+        <div class="society2">
+          <img
+            src="logo-imgs/IEEEEtaKappaNuStackedLogo.png"
+            alt="IEEE Eta Kappa Nu"
+            class="society-badge"
+          />
+          <div class="line"></div>
+          <p class="soc-desc">
+            Recognized for top-performance as a student (GPA ≥ 3.5),
+            demonstrating leadership potential and engagement in electrical
+            engineering / IT-related fields. Inducted: Feb 2023
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <h1 class="vk">V <em>K</em></h1>
+      <div class="footer-text">
+        <a href="mailto:vkwenda@students.kennesaw.edu" class="hi"
+          >say <em>hi</em></a
+        >
+        <p class="credit">© 2025 Vongai Kwenda</p>
+      </div>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
