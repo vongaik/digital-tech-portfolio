@@ -1,6 +1,6 @@
 # CapSense AI – Sentiment Analysis and Response Generation Application
 
-**Developed for Capgemini** – The sponsor of our technical work as a team of developers, testers, and technical writers using modern technologies.
+**Developed for Capgemini** – The sponsor of our technical work as a team of developers, testers, and technical writers using modern technologies. See our original group repo here: https://github.com/CapSense/Capgemini_SentimentApp_Remake.
 
 ---
 
@@ -125,6 +125,7 @@ npm run dev
 ---
 
 **CapSense AI** reflects hands-on experience in **full-stack development, machine learning, NLP, AI model integration, and cloud deployment**, making it a strong portfolio project for professional experience, including technical experience at **Capgemini**.
+
 
 
 
