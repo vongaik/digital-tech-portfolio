@@ -1,7 +1,5 @@
 # Basic Bank Account Simulator (Java)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-
 A simple Java program I made that demonstrates the use of **do-while loops** and **sentinel-controlled loops** to simulate a basic bank account system.
 
 ## Features
