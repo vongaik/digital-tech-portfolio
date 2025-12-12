@@ -1,4 +1,4 @@
-# Extract Words After "the" from Presidential Speech (Python)
+# Lab7: Extract Words After "the" from Presidential Speech (Python)
 
 This lab I did reads a text file of a presidential inaugural speech, extracts all words that come immediately after the word "the", and saves them to a new file. It demonstrates my skills in basic file handling, string manipulation, and class-based design in Python.
 
