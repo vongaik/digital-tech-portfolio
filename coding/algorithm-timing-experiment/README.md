@@ -23,6 +23,10 @@ To evaluate how two O(n²) sorting algorithms behave in practice by measuring th
 
 ### Results and Analysis
 
+Timing results were recorded in a spreadsheet and visualized using graphs.
+
+![Bubble vs Selection Sort Timing](graphs/timing_comparison.png)
+
 * Timing results were recorded in a spreadsheet and visualized using graphs.
 * Both algorithms exhibit O(n²) growth, but with different constant factors.
 * Observed performance differences are discussed in the accompanying report.
