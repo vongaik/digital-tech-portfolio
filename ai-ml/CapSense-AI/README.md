@@ -127,7 +127,8 @@ npm run dev
 
 ---
 
-**CapSense AI** reflects hands-on experience in **full-stack development, machine learning, NLP, AI model integration, and cloud deployment**, making it a strong portfolio project for professional experience, including technical experience at **Capgemini**.
+**CapSense AI** reflects hands-on experience in **full-stack development, machine learning, NLP, AI model integration, and cloud deployment**, making it a portfolio project showcasing exposure to professional work, including technical experience.
+
 
 
 
