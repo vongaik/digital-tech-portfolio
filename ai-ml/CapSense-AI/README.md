@@ -3,6 +3,9 @@
 **Developed for Capgemini** – The sponsor of our technical work as a team of developers, testers, and technical writers using modern technologies. See our original group repo here: https://github.com/CapSense/Capgemini_SentimentApp_Remake.
 
 ---
+**Post-capstone edits to UI design 2026:**
+<img width="2152" height="1360" alt="Demo app new design" src="https://github.com/user-attachments/assets/9f6105c4-bd13-48ff-afbe-06b3f74e03b7" />
+
 
 ## Overview
 
@@ -125,6 +128,7 @@ npm run dev
 ---
 
 **CapSense AI** reflects hands-on experience in **full-stack development, machine learning, NLP, AI model integration, and cloud deployment**, making it a strong portfolio project for professional experience, including technical experience at **Capgemini**.
+
 
 
 
